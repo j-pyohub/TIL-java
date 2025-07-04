@@ -14,31 +14,36 @@
 
 ### 📘 Java 공부
 
--   <details>
-    <summary>🛠️ 기초 문법</summary>
+<details>
+<summary>🛠️ 기초 문법</summary>
 
-    [java-start]
-    - ~2025-06-24 변수(/variable), 연산자(/operator), 조건문(/cond)
-    - 2025-06-25 반복문 (/loop), 스코프(/scope)
-    - 2025-06-26 형변환 (/casting), 스캐너(/scanner)
-    - 2025-06-27 배열(/array)
-    - 2025-07-02 배열 심화(/array)
-    - 2025-07-03 매서드(/method)
-    - 2025-07-04 매서드 심화(/method)
+- ~2025-06-24 변수(/variable), 연산자(/operator), 조건문(/cond)
+- 2025-06-25 반복문 (/loop), 스코프(/scope)
+- 2025-06-26 형변환 (/casting), 스캐너(/scanner)
+- 2025-06-27 배열(/array)
+- 2025-07-02 배열 심화(/array)
+- 2025-07-03 매서드(/method)
+- 2025-07-04 매서드 심화(/method)
 
-    </details>
+### 🧩 알고리즘 문제
 
- ### 🧩 알고리즘 문제
-    <details>
+<details>
+<summary>📂 백준 (/baekjoon)</summary>
 
-    <summary> 백준(/baekjoon) </summary>
-    - bronze
-    - silver
-    -
-    <summary> 프로그래머스 </summary>
-    - SWEA
+- 🥉 Bronze
+- 🥈 Silver
+- 🥇 Gold
 
-    </details>
+</details>
+
+<details>
+<summary>📂 프로그래머스 (/programmers)</summary>
+
+- Lv.1
+- Lv.2
+
+</details>
+
 
 > 폴더는 점점 추가/변경될 수 있습니다.
 
