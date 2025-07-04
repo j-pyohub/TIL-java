@@ -26,7 +26,7 @@
 - 2025-07-04 매서드 심화(/method)
 
 ### 🧩 알고리즘 문제
-
+</details>
 <details>
 <summary>📂 백준 (/baekjoon)</summary>
 
