@@ -31,7 +31,9 @@
 <details>
 <summary>📂 백준 (/baekjoon)</summary>
 
-- 🥉 Bronze
+- 🥉 Bronze (./src/baekjoon/bronze/)
+  - [10807번 - 개수 세기](./src/baekjoon/bronze/boj_10807.java)
+  - [10871번 - X보다 작은 수](./src/baekjoon/bronze/boj_10871.java)
 - 🥈 Silver
 - 🥇 Gold
 
