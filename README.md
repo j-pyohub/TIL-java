@@ -25,18 +25,20 @@
     - 2025-07-02 배열 심화(/array)
     - 2025-07-03 매서드(/method)
     - 2025-07-04 매서드 심화(/method)
-    
 
--  <details>
-    <summary>🧩 알고리즘 문제</summary>
+    </details>
 
-    - 백준(/baekjoon)
-    - 프로그래머스
+ ### 🧩 알고리즘 문제
+    <details>
+
+    <summary> 백준(/baekjoon) </summary>
+    - bronze
+    - silver
+    -
+    <summary> 프로그래머스 </summary>
     - SWEA
 
-  </details>
-</details>
-
+    </details>
 
 > 폴더는 점점 추가/변경될 수 있습니다.
 
