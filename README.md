@@ -15,7 +15,8 @@
 ### 📘 Java 공부
 
 <details>
-<summary>🛠️ 기초 문법</summary>
+<summary>🛠️기초 문법</summary>
+
 
 - ~2025-06-24 변수(/variable), 연산자(/operator), 조건문(/cond)
 - 2025-06-25 반복문 (/loop), 스코프(/scope)
@@ -31,7 +32,7 @@
 <details>
 <summary>📂 백준 (/baekjoon)</summary>
 
-- 🥉 Bronze (./src/baekjoon/bronze/)
+- [🥉 Bronze](./src/baekjoon/bronze)
   - [10807번 - 개수 세기](./src/baekjoon/bronze/boj_10807.java)
   - [10871번 - X보다 작은 수](./src/baekjoon/bronze/boj_10871.java)
 - 🥈 Silver
