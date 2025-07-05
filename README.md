@@ -17,7 +17,7 @@
 <details>
 <summary>🛠️기초 문법</summary>
 
-
+[바로가기](./src/java-start)
 - ~2025-06-24 변수(/variable), 연산자(/operator), 조건문(/cond)
 - 2025-06-25 반복문 (/loop), 스코프(/scope)
 - 2025-06-26 형변환 (/casting), 스캐너(/scanner)
@@ -25,6 +25,17 @@
 - 2025-07-02 배열 심화(/array)
 - 2025-07-03 매서드(/method)
 - 2025-07-04 매서드 심화(/method)
+
+
+</details>
+<details>
+<summary>🛠️기본 문법</summary>
+
+[바로가기](./src/java-basic)
+
+- 2025-07-05 클래스
+
+
 </details>
 
 ### 🧩 알고리즘 문제
