@@ -12,6 +12,29 @@
 ## 🗂️ 카테고리
 아래는 현재까지 학습한 주제들입니다. 각 폴더는 주제별로 정리되어 있습니다.
 
+
+### 🧩 알고리즘 문제
+
+<details>
+<summary>📂 백준 (/baekjoon)</summary>
+
+- [🥉 Bronze](./src/baekjoon/bronze)
+  - [10807번 - 개수 세기](./src/baekjoon/bronze/boj_10807.java)
+  - [10871번 - X보다 작은 수](./src/baekjoon/bronze/boj_10871.java)
+  - [2562번 - 최대값](./src/baekjoon/bronze/boj_2562.java)
+- 🥈 Silver
+- 🥇 Gold
+
+</details>
+
+<details>
+<summary>📂 프로그래머스 (/programmers)</summary>
+
+- Lv.1
+- Lv.2
+
+</details>
+
 ### 📘 Java 공부
 
 <details>
@@ -38,29 +61,6 @@
 
 
 </details>
-
-### 🧩 알고리즘 문제
-
-<details>
-<summary>📂 백준 (/baekjoon)</summary>
-
-- [🥉 Bronze](./src/baekjoon/bronze)
-  - [10807번 - 개수 세기](./src/baekjoon/bronze/boj_10807.java)
-  - [10871번 - X보다 작은 수](./src/baekjoon/bronze/boj_10871.java)
-  - [2562번 - 최대값](./src/baekjoon/bronze/boj_2562.java)
-- 🥈 Silver
-- 🥇 Gold
-
-</details>
-
-<details>
-<summary>📂 프로그래머스 (/programmers)</summary>
-
-- Lv.1
-- Lv.2
-
-</details>
-
 > 폴더는 점점 추가/변경될 수 있습니다.
 
 ---
